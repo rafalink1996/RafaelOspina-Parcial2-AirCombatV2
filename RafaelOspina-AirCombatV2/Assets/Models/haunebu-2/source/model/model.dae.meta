@@ -1,0 +1,200 @@
+fileFormatVersion: 2
+guid: 4060bd858a55049ee9976643c249e5af
+timeCreated: 1523748988
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Haunebu_2_Bott
+    100002: Haunebu_2_Bott 1
+    100004: Haunebu_2_Bott 2
+    100006: Haunebu_2_Bott 3
+    100008: Haunebu_2_Core
+    100010: Haunebu_2_Core 1
+    100012: Haunebu_2_Core 2
+    100014: Haunebu_2_Core 3
+    100016: Haunebu_2_Shell
+    100018: Haunebu_2_Shell 1
+    100020: //RootNode
+    400000: Haunebu_2_Bott
+    400002: Haunebu_2_Bott 1
+    400004: Haunebu_2_Bott 2
+    400006: Haunebu_2_Bott 3
+    400008: Haunebu_2_Core
+    400010: Haunebu_2_Core 1
+    400012: Haunebu_2_Core 2
+    400014: Haunebu_2_Core 3
+    400016: Haunebu_2_Shell
+    400018: Haunebu_2_Shell 1
+    400020: //RootNode
+    2100000: M_Base_Bott_C
+    2100002: M_Telescopes_C
+    2100004: M_Base_Top_C
+    2100006: T_LightRed_C
+    2100008: M_Base_Top__S
+    2100010: M_Glass_S
+    2100012: M_Base_Bott_B
+    2100014: M_Telescopes_B
+    2100016: M_Tires_B
+    2100018: M_Base_Top_B
+    2300000: Haunebu_2_Bott
+    2300002: Haunebu_2_Bott 1
+    2300004: Haunebu_2_Bott 2
+    2300006: Haunebu_2_Bott 3
+    2300008: Haunebu_2_Core
+    2300010: Haunebu_2_Core 1
+    2300012: Haunebu_2_Core 2
+    2300014: Haunebu_2_Core 3
+    2300016: Haunebu_2_Shell
+    2300018: Haunebu_2_Shell 1
+    3300000: Haunebu_2_Bott
+    3300002: Haunebu_2_Bott 1
+    3300004: Haunebu_2_Bott 2
+    3300006: Haunebu_2_Bott 3
+    3300008: Haunebu_2_Core
+    3300010: Haunebu_2_Core 1
+    3300012: Haunebu_2_Core 2
+    3300014: Haunebu_2_Core 3
+    3300016: Haunebu_2_Shell
+    3300018: Haunebu_2_Shell 1
+    4300000: Haunebu_2_Core
+    4300002: Haunebu_2_Core
+    4300004: Haunebu_2_Core
+    4300006: Haunebu_2_Core
+    4300008: Haunebu_2_Shell
+    4300010: Haunebu_2_Shell
+    4300012: Haunebu_2_Bott
+    4300014: Haunebu_2_Bott
+    4300016: Haunebu_2_Bott
+    4300018: Haunebu_2_Bott
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Base_Bott_B
+    second: {fileID: 2100000, guid: f8e7778cc00bf45b4926943d9bc5f94e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Base_Bott_C
+    second: {fileID: 2100000, guid: 2124cbc5b60cf4e7080a83261987ead1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Base_Top_B
+    second: {fileID: 2100000, guid: 45c3b3c9b4dc74fca87bf25d447fd23e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Base_Top_C
+    second: {fileID: 2100000, guid: bf8a39eb3f6394b77bdb937d0c7f0c7f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Base_Top__S
+    second: {fileID: 2100000, guid: 3f60916a1079547dbb3a5eb1fbd6e521, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Glass_S
+    second: {fileID: 2100000, guid: 23432b63a6ece4504b163bc3da651aa7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Telescopes_B
+    second: {fileID: 2100000, guid: a9832960ccf824b01b5fdf04bde9bc51, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Telescopes_C
+    second: {fileID: 2100000, guid: 5a58628ea83bc4793ab5ea59b3abefca, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Tires_B
+    second: {fileID: 2100000, guid: cabb338fe3ec94bb49b8e17b6056dd19, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: T_LightRed_C
+    second: {fileID: 2100000, guid: b084d6e34697144a7a8e39809bbc9d65, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
